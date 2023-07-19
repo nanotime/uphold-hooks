@@ -1,3 +1,5 @@
+# Deprecated this doesnt works anymore, keeping the code just as a reference
+
 # uphold-hooks
 hooks with auth-webtasks for uphold tickers
 
